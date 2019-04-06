@@ -1,6 +1,6 @@
 # nuxter
 
-> test nuxter
+> Nuxt.js framework for vue js.
 
 ## Build Setup
 
